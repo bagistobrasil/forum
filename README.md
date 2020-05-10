@@ -6,7 +6,7 @@ Ama o Bagisto? Torne se um Jedi e ajude outros Padawans.
 
 ### Como utilizar esse fórum
 
-1. Utilize [issues](https://github.com/laravelbrasil/forum/issues) para criar perguntas.
+1. Utilize [issues](https://github.com/bagistobrasil/forum/issues) para criar perguntas.
 2. Várias tags (ou labels) sobre temas e categorias estão disponíveis na cor azul, utilize-as para categorizar suas perguntas.
 3. Utilize as tags na cor laranja para especifar a versão atual do Laravel que está usando.
 4. Seja claro e tente ao máximo utilizar o português corretamente.
